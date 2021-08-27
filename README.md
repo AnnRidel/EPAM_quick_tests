@@ -59,10 +59,10 @@ allure serve build/allure-results
 ![image](https://github.com/AnnRidel/Data_examples/blob/master/resources/images/allure_steps.png)
 
 ### :bar_chart: Dashboards in Allure TestOps:
-![image](https://github.com/AnnRidel/Data_examples/blob/master/resources/images/allere_testops_dashboard.png)
+![image](https://github.com/AnnRidel/Data_examples/blob/master/resources/images/allure_testops_dashboard.png)
 
 ### :clipboard: Test Cases in Allure TestOps:
-![image](hhttps://github.com/AnnRidel/Data_examples/blob/master/resources/images/Allure%20TestOps%20-%20Google%20Chrome%202021-08-28%2000.36.09.png)
+![image](https://github.com/AnnRidel/Data_examples/blob/master/resources/images/allure_testops_cases.png)
 
 ### :envelope_with_arrow: Notification about tests execution results in Telegram:
 ![image](https://github.com/AnnRidel/Data_examples/blob/master/resources/images/telegram_notifications.png)
