@@ -49,20 +49,23 @@ gradle clean test -Durl=selenoid.autotests.cloud/wd/hub/ -DrunMode=remote
 allure serve build/allure-results
 ```
 
-### :gear: Running build in Jenkins with parameters:
+### :gear: Running build in [Jenkins](https://jenkins.autotests.cloud/job/07-annrid-epam/) with parameters:
 ![image](https://github.com/AnnRidel/Data_examples/blob/master/resources/images/jenkins_parameters.png)
 
-### :chart_with_upwards_trend: Generated Allure Report with tests execution results:
+### :chart_with_upwards_trend: Generated [Allure Report](https://jenkins.autotests.cloud/job/07-annrid-epam/21/allure/) with tests execution results:
 ![image](https://github.com/AnnRidel/Data_examples/blob/master/resources/images/allure_report.png)
 
-### :bookmark_tabs: Detailed Allure report with test steps:
+### :bookmark_tabs: [Detailed Allure report](https://jenkins.autotests.cloud/job/07-annrid-epam/21/allure/#suites/294c45dfba4c3e4970593718786ed60f/5665d874bcb2db79/) with test steps:
 ![image](https://github.com/AnnRidel/Data_examples/blob/master/resources/images/allure_steps.png)
 
-### :bar_chart: Dashboards in Allure TestOps:
+### :bar_chart: Dashboards in [Allure TestOps](https://allure.autotests.cloud/project/341/dashboards):
 ![image](https://github.com/AnnRidel/Data_examples/blob/master/resources/images/allure_testops_dashboard.png)
 
-### :clipboard: Test Cases in Allure TestOps:
+### :clipboard: Test Cases in [Allure TestOps](https://allure.autotests.cloud/project/341/test-cases/4366?treeId=720):
 ![image](https://github.com/AnnRidel/Data_examples/blob/master/resources/images/allure_testops_cases.png)
+
+### :bookmark_tabs: [Jira](https://jira.autotests.cloud/browse/HOMEWORK-262) integration:
+![image](https://github.com/AnnRidel/Data_examples/blob/master/resources/images/jira_epam.png)
 
 ### :envelope_with_arrow: Notification about tests execution results in Telegram:
 ![image](https://github.com/AnnRidel/Data_examples/blob/master/resources/images/telegram_notifications.png)
